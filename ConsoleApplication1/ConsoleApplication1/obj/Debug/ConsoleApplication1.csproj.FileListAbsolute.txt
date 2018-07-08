@@ -1,0 +1,20 @@
+c:\users\guobin\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\guobin\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\guobin\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\guobin\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Nancy.dll
+c:\users\guobin\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Nancy.Hosting.Self.dll
+c:\users\guobin\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Nancy.xml
+c:\users\guobin\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Nancy.Hosting.Self.xml
+c:\users\guobin\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\guobin\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\guobin\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Guobin\Projects\csharp_nancyhost_https\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Guobin\Projects\csharp_nancyhost_https\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Guobin\Projects\csharp_nancyhost_https\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Guobin\Projects\csharp_nancyhost_https\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Guobin\Projects\csharp_nancyhost_https\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Guobin\Projects\csharp_nancyhost_https\ConsoleApplication1\ConsoleApplication1\bin\Debug\Nancy.dll
+C:\Users\Guobin\Projects\csharp_nancyhost_https\ConsoleApplication1\ConsoleApplication1\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\Guobin\Projects\csharp_nancyhost_https\ConsoleApplication1\ConsoleApplication1\bin\Debug\Nancy.xml
+C:\Users\Guobin\Projects\csharp_nancyhost_https\ConsoleApplication1\ConsoleApplication1\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\Guobin\Projects\csharp_nancyhost_https\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
