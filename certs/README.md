@@ -55,4 +55,4 @@
 
 8. 将证书文件server.crt和证书密钥文件server.key合并成安装包server.p12
 
-   `openssl pkcs12 -export -in root.crt -inkey root.key -out root.p12`
+   `openssl pkcs12 -export -in server.crt -inkey server.key -out server.p12`
