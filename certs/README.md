@@ -23,7 +23,7 @@
 
 3. 创建一个自当前日期起为期十年的根证书root.crt
 
-   `openssl x509 -req -days 3650 -sha1 -extensions v3_ca -signkey root.key -in root.req -out root.crt`
+   `openssl x509 -req -days 3650 -sha1 -extensions v3_ca -signkey root.key -in root.csr -out root.crt`
 
 4. 将证书文件root.crt和证书密钥文件root.key合并成安装包root.p12
 
