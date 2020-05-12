@@ -31,7 +31,7 @@
 
 5. 创建服务器证书密钥server.key
 
-   `openssl genrsa –des3 -out server.key 2048`
+   `openssl genrsa -des3 -out server.key 2048`
 
 6. 创建服务器证书的申请文件server.csr
 
